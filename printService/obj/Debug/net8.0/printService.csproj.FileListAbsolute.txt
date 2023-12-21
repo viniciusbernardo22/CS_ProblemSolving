@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Courses\nelio\printService\bin\Debug\net8.0\printService.exe
+C:\Users\Usuario\Desktop\Courses\nelio\printService\bin\Debug\net8.0\printService.deps.json
+C:\Users\Usuario\Desktop\Courses\nelio\printService\bin\Debug\net8.0\printService.runtimeconfig.json
+C:\Users\Usuario\Desktop\Courses\nelio\printService\bin\Debug\net8.0\printService.dll
+C:\Users\Usuario\Desktop\Courses\nelio\printService\bin\Debug\net8.0\printService.pdb
+C:\Users\Usuario\Desktop\Courses\nelio\printService\obj\Debug\net8.0\printService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Courses\nelio\printService\obj\Debug\net8.0\printService.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Courses\nelio\printService\obj\Debug\net8.0\printService.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Courses\nelio\printService\obj\Debug\net8.0\printService.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Courses\nelio\printService\obj\Debug\net8.0\printService.sourcelink.json
+C:\Users\Usuario\Desktop\Courses\nelio\printService\obj\Debug\net8.0\printService.dll
+C:\Users\Usuario\Desktop\Courses\nelio\printService\obj\Debug\net8.0\refint\printService.dll
+C:\Users\Usuario\Desktop\Courses\nelio\printService\obj\Debug\net8.0\printService.pdb
+C:\Users\Usuario\Desktop\Courses\nelio\printService\obj\Debug\net8.0\printService.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Courses\nelio\printService\obj\Debug\net8.0\ref\printService.dll
